@@ -2,7 +2,7 @@ A public repository to share my resume for Data Analyst roles. This includes my 
 
 
 
-📄 [Download Resume](./BalajiC_resume(1).pdf)
+📄 [Download Resume](./BalajiC_resume (1).pdf)
 
 ## Contact
 - 📧 Email: balajic200104@gmail.com
